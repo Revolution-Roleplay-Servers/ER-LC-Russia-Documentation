@@ -64,7 +64,7 @@ description: >-
 {
   "code": 5020,
   "message": "spam_detected_level_1",
-  "blocked_until": "2026-02-23T12:35:00.000Z",
+  "blocked_until": "1771873061",
   "remaining_seconds": 300
 }
 ```
@@ -75,7 +75,7 @@ description: >-
 {
   "code": 5021,
   "message": "spam_detected_level_2",
-  "blocked_until": "2026-02-23T12:45:00.000Z",
+  "blocked_until": "1771873061",
   "remaining_seconds": 900
 }
 ```
@@ -86,7 +86,7 @@ description: >-
 {
   "code": 5022,
   "message": "spam_detected_level_3",
-  "blocked_until": "2026-02-23T13:30:00.000Z",
+  "blocked_until": "1771873061",
   "remaining_seconds": 3600
 }
 ```
@@ -97,7 +97,7 @@ description: >-
 {
   "code": 5023,
   "message": "spam_blocked",
-  "blocked_until": "2026-02-23T12:35:00.000Z",
+  "blocked_until": "1771873061",
   "remaining_seconds": 245
 }
 ```
