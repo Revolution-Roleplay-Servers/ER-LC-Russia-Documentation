@@ -25,13 +25,7 @@ layout:
 
 # Обновление V0.1.3
 
-{% updates format="full" %}
-{% update date="2026-03-12" %}
-## Обновление V0.1.3
-
-
-{% endupdate %}
-{% endupdates %}
+<h2 align="center"><strong>Обновление V0.1.3</strong></h2>
 
 <p align="center">Наступил долгожданный момент — политическая арена <strong>Moscow RolePlay</strong> официально открыта! Мы представляем систему <strong>Правительства</strong>, которая станет высшим органом контроля и правосудия в нашем городе.</p>
 
