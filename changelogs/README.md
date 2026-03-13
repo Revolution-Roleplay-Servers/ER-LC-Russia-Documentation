@@ -34,5 +34,5 @@ layout:
 
 <h3 align="center">Последние Обновления</h3>
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>ChangeLog V1.0.3</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h3>ChangeLog V0.1.3</h3></td><td></td></tr><tr><td align="center"><h3>ChangeLog V0.1.2</h3></td><td></td></tr><tr><td align="center"><h3>ChangeLog V0.1.1</h3></td><td></td></tr></tbody></table>
 
