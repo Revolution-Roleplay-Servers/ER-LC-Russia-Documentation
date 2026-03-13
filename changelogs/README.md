@@ -1,8 +1,8 @@
 ---
 hidden: true
-cover: .gitbook/assets/Баннер Moscow RolePlay Обычный Адаптация.png
-coverY: 10.778947368421052
-coverHeight: 219
+cover: .gitbook/assets/Баннеры ChangeLogs Moscow RolePlay.png
+coverY: 30.989473684210523
+coverHeight: 226
 layout:
   width: default
   cover:
