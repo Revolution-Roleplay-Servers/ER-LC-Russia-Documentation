@@ -34,5 +34,5 @@ layout:
 
 <h3 align="center">Последние Обновления</h3>
 
-<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h4>Обновление <strong>V0.1.3</strong></h4></td><td></td></tr><tr><td align="center"><h4><strong>Обновление V0.1.2</strong></h4></td><td></td></tr><tr><td align="center"><h4><strong>Обновление V0.1.1</strong></h4></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h4>Обновление <strong>V0.1.3</strong></h4></td><td></td></tr><tr><td align="center"><h4><strong>Обновление V0.1.2</strong></h4></td><td></td></tr><tr><td align="center"><h4><strong>Обновление V0.1.1</strong></h4></td><td><a href="changelogs-history/changelogs-v0.md#obnovlenie-v0.1.1">#obnovlenie-v0.1.1</a></td></tr></tbody></table>
 
