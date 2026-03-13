@@ -20,7 +20,7 @@ layout:
 # Обновление V0.1.1
 
 {% updates format="full" %}
-{% update date="2026-03-13" %}
+{% update date="2026-03-07" %}
 ## **Обновление V0.1.1**
 
 
