@@ -163,14 +163,18 @@ layout:
   * <mark style="color:green;">**F-9.5**</mark> <mark style="color:green;"></mark><mark style="color:green;">—    &#x20;Случайное ДТП можно откатить по общим правилам — только при согласии всех участников.</mark>
   * <mark style="color:green;">**F-9.6**</mark> <mark style="color:green;"></mark><mark style="color:green;">—    &#x20;Если ДТП произошло по вине одного игрока (например, сбит столб или произошло столкновение со стеной), необходимо написать или сказать сообщение «.// откат» в "игровой-чат" или РП-сцену.</mark>
 
-#### **ГОЛОСОВЫЕ ЧАТЫ** <a href="#golosovye-chaty" id="golosovye-chaty"></a>
+<h3 id="golosovye-chaty" align="center"><strong>Г</strong><mark style="color:red;"><strong>ОЛОСОВЫЕ</strong>олосовые</mark> <strong>Ч</strong><mark style="color:red;"><strong>АТЫ</strong><strong>аты</strong></mark></h3>
 
-* **G-1** – **Использование Soundpad и аналогов**
-  * Разрешено использовать Soundpad и аналогичные программы в Roblox Voice Chat только для RP-ситуаций.
-  * Каждый звуковой эффект — не более **10 секунд**, громкость — не выше **75 дБ**.
-  * Звук должен соответствовать сцене и не мешать другим.
-  * Запрещено: музыка, мемы, троллинг, мат, фоновые шумы, попытки обхода лимита (склейка, повтор, наложение).
-  * Один эффект за раз, без "обходов" — любые попытки удлинить звучание считаются нарушением.
+* **G-1** – <mark style="color:red;">**Использование Soundpad и аналогов**</mark> <mark style="color:green;">Разрешено использовать Soundpad, встроенный Soundboard Discord и аналогичные программы исключительно для RP-ситуаций в каналах РП-сцен (например: звуки сирен, рации, открывания дверей, работающих инструментов).</mark>
+  * <mark style="color:red;">Разрешено использовать Soundpad и аналогичные программы в Roblox Voice Chat только для RP-ситуаций.</mark>
+  * <mark style="color:red;">Каждый звуковой эффект — не более</mark> <mark style="color:red;"></mark><mark style="color:red;">**10 секунд**</mark><mark style="color:red;">, громкость — не выше</mark> <mark style="color:red;"></mark><mark style="color:red;">**75 дБ**</mark><mark style="color:red;">.</mark>
+  * <mark style="color:red;">Звук должен соответствовать сцене и не мешать другим.</mark>
+  * <mark style="color:red;">Запрещено: музыка, мемы, троллинг, мат, фоновые шумы, попытки обхода лимита (склейка, повтор, наложение).</mark>
+  * <mark style="color:red;">Один эффект за раз, без "обходов" — любые попытки удлинить звучание считаются нарушением.</mark>
+  * <mark style="color:green;">**G-1.1**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Каждый звуковой эффект — не более 10 секунд, громкость — не выше 75 дБ (или 75% в Soundboard Discord), чтобы не заглушать голоса участников.</mark>
+  * <mark style="color:green;">**G-1.2**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Звук обязан соответствовать текущей сцене и не мешать диалогам других игроков.</mark>
+  * <mark style="color:green;">**G-1.3**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Музыка (вне бумбокса), мемы, троллинг, нецензурная лексика, громкие фоновые шумы, крики животных и т.д.</mark>
+  * <mark style="color:green;">**G-1.4**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Запрещены любые попытки удлинить звучание (склейка нескольких звуков, повтор одного и того же эффекта подряд, наложение). Один эффект — одна пауза. Любые «хитрости» считаются нарушением и караются как помеха RP-процессу.</mark>
 * **G-2** – <mark style="color:red;">**Использование внутриигрового бумбокса**</mark> <mark style="color:green;">Разрешено использовать бумбокс в любых игровых моментах, если это не нарушает</mark> [<mark style="color:green;">**Roblox TOS**</mark>](https://wiki.erlcrussia.xyz/documentation-moscow-roleplay/general-pravila/rp-terminy#osnovnye-polozheniya-roblox-tos)<mark style="color:green;">.</mark>
   * <mark style="color:red;">Разрешено использовать бумбокс в любых игровых моментах, если это не нарушает Roblox TOS.</mark>
   * <mark style="color:red;">Запрещено использование любых звуков и треков, противоречащих правилам Roblox.</mark>
