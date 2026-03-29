@@ -19,9 +19,9 @@ layout:
 
 # 📖 Небольшой Гайд Для Новичков
 
-## 👋 Добро пожаловать в Moscow RolePlay!
+<h2 align="center">👋 Добро Пожаловать в Moscow RolePlay!</h2>
 
-## Гайд для новичков Moscow Roleplay (ER:LC)
+<h2 align="center">Гайд для новичков Moscow Roleplay (ER:LC)</h2>
 
 ### Как зайти на сервер?
 
@@ -30,56 +30,20 @@ layout:
 **1.** Не менее одного часа игрового времени.\
 Игровые часы показываются тут:<br>
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdr41bdGzkc90gHUV0OQ6Wvtn9qGc44gGNO2Z_TZbllvmr1qTq3Cs09qNgRFm-s1k8qDa5PB-obkLg4_ddqXv01QKoc6SJ7n2Aq3X4B3IhHY2iTtUGa1w_dXCcTpwvyFNGySxAr?key=i4Rk294V2yz2eox5BrfdBw" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdr41bdGzkc90gHUV0OQ6Wvtn9qGc44gGNO2Z_TZbllvmr1qTq3Cs09qNgRFm-s1k8qDa5PB-obkLg4_ddqXv01QKoc6SJ7n2Aq3X4B3IhHY2iTtUGa1w_dXCcTpwvyFNGySxAr?key=i4Rk294V2yz2eox5BrfdBw" alt=""><figcaption></figcaption></figure></div>
 
 **2.** 500 XP в одной из игровых фракций (полиция, пожарные, шериф, дот).\
 Не обязательно набирать по 500 XP в каждой — достаточно 500 XP в одной любой из них.
 
 Дальнейшие шаги:
 
-<figure><img src="../.gitbook/assets/unn3234a2342342med.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/unn3234a2342342med.png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcOg2D7lXWTEsPp4CjtxYfwUXZseXmti7sBkNvBV3CjQ7LIWT6xT1mySsbzmN1cOL4xFatbx2VweiJBujY9SXGBf2eOiG-9KgPEc1D30WyD6bpLJAkgk1xjCvOcjVl_3y66aVJz?key=i4Rk294V2yz2eox5BrfdBw" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcOg2D7lXWTEsPp4CjtxYfwUXZseXmti7sBkNvBV3CjQ7LIWT6xT1mySsbzmN1cOL4xFatbx2VweiJBujY9SXGBf2eOiG-9KgPEc1D30WyD6bpLJAkgk1xjCvOcjVl_3y66aVJz?key=i4Rk294V2yz2eox5BrfdBw" alt=""><figcaption></figcaption></figure></div>
 
 1. Нажимаем на 3 полоски в правом верхнем углу
 2. Заходим во вкладку с серверами, выбираем "Join by Code"
 3. Вводим в поле код **MoscowRus**<br>
-
-***
-
-### Основные каналы Discord-сервера
-
-* 🏪 **𝖬агазин-𝖢ервера** — премиум подписки на сервер
-* 📢 **Moscow Roleplay**
-  * 📣 ╔-объявления — важные новости от администрации
-  * 📅 ║-объявление-ивентов — публикация ивентов сервера
-  * 📊 ║-активность-сервера — сессии и активность
-  * 🤝 ║-партнёрства — партнёры и коллаборации
-  * 🛠️ ╚-обновления-erlc — все обновления Emergency Response: Liberty County
-* 📚 **Информация Сервера**
-  * 📚 ▎правила-и-документация — все правила и документы
-  * 🗂️ ▎информация — полезные ссылки, роли, гайды, структура проекта
-  * 📁 ▎фракции — описание фракций, ранги, условия вступления
-  * 📢 ▎реклама-фракций — наборы во фракции
-* 🗨 **Общий Чат**
-  * 💬 ▎общение — основной чат для общения
-  * 🎥 ▎медиа — скриншоты, видео, лучшие моменты
-  * 🤣 ▎мемы — мемы и юмор
-  * ❓ ▎вопросы-и-помощь — вопросы, советы, поддержка
-  * Telegram — форумы и каналы коммьюнити
-* 🎫 **Тикет Помощи**
-  * 📝 ▎помощь — открытие тикета для поддержки или жалобы (всё обрабатывается быстро и конфиденциально)
-* 🚔 **Департаменты и Livery**
-  * 🎨 ▎новые-livery — свежие дизайны машин
-* 📝 **Заявки**
-  * 📁 ▎заявка — анкеты на вступление в команду сервера
-  * 📊 ▎результаты — результаты рассмотрения заявок
-* 🔊 **Голосовые Чаты**
-  * 🔇 ▎без-микрофона — для тех, кто не может говорить
-  * ⚙️ ▎создать голосовой чат
-  * 📺 ▎трансляции — стримы и показ экрана
-  * 🎉 ▎голосовой чат событий — используется во время ивентов
-  * 👮 голосовой чат персонала — только для персонала
 
 ***
 
@@ -95,33 +59,19 @@ layout:
 
 ***
 
-## Ролевая игра
+<h2 align="center">Ролевая Игра</h2>
 
 **Ролевая игра** — это процесс взаимодействия созданных игроками персонажей, направленный на их развитие, которое достигается путем создания различных ролевых ситуаций, подпадающих под некоторые ограничения в виде лора и сеттинга, а также правил сервера.
 
-### Игровой персонаж
+<h3 align="center">Игровой Персонаж</h3>
 
 Игровой персонаж — это созданный игроком образ, который имеет ряд своих уникальных характеристик: внешность, характер, повадки, поведение, историю, мотивы, цели и предрасположенности, а также недостатки и ограничения.
 
 ***
 
-## Криминальные действия
+<h2 align="center">Криминальные Действия</h2>
 
 Зелёным на карте отмечены места, где запрещена любая криминальная деятельность:
-
-***
-
-### Полезные ссылки
-
-* [Правила и документация](https://discord.com/channels/1331331077553262765/1331331818351235094)
-* [Фракции](https://discord.com/channels/1331331077553262765/1338608712188956754)
-* [Тикеты](https://discord.com/channels/1331331077553262765/1338585898907861012)
-* [Официальный Discord](https://discord.gg/MoscowRus)
-
-***
-
-_Если остались вопросы — всегда обращайтесь в канал_ **❓ ▎вопросы-и-помощь** _или открывайте тикет в_ **📝 ▎помощь**.\
-&#xNAN;_&#x423;дачной игры!_
 
 ***
 
