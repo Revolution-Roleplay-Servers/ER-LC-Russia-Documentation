@@ -36,7 +36,7 @@ metaLinks:
 
 <p align="center">Welcome to the official ER:LC Russia API documentation. Here you will find all the necessary tools, guides, and reference materials to integrate your game server with external services. We have done our best to make the development process as simple and clear as possible.</p>
 
-<p align="center"><button type="button" class="button primary" data-action="search" data-icon="magnifying-glass">Поиск Информации...</button></p>
+<p align="center"><button type="button" class="button primary" data-action="search" data-icon="magnifying-glass">Search Information...</button></p>
 
 <h3 align="center"><strong>Quick Start</strong></h3>
 
