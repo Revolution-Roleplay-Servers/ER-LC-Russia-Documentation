@@ -4,9 +4,10 @@
 
 ## 📕 Основные Правила <a href="#general-pravila" id="general-pravila"></a>
 
-* [📗 Правила Сервера](general-pravila/pravila-servera.md)
+* [📗 Правила Сервера](general-pravila/server-rules.md)
 * [📒 РП Термины](general-pravila/rp-terminy.md)
-* [📘 Правила Discord](general-pravila/pravila-discord.md)
+* [📘 Правила Discord](general-pravila/discord-rules.md)
+* [🎉 Правила Мероприятий](general-pravila/event-rules.md)
 
 ## 📚 Правила Фракций <a href="#fractions-rules" id="fractions-rules"></a>
 
