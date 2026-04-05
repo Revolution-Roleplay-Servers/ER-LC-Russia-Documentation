@@ -21,15 +21,33 @@ layout:
 
 <h2 align="center"><strong>Обновление V0.2.1 — 29.03.2026</strong></h2>
 
-<p align="center">аписание нада сделать</p>
+<p align="center">Масштабное обновление инфраструктуры и регламента проекта официально запущено! Мы полностью переписали правила сообщества и внедрили обновлённый технический стек, чтобы сделать ваше взаимодействие с сервером более комфортным, а работу систем — интуитивно понятной и быстрой.</p>
 
-пока что обновили только форматирование терминов и убрали лишнее в гайде. \
-Обновлии бота Moscow RolePlay бот для тикетов\
-перенесли повышения персонала на боат Управления департамент<br>
+***
+
+* **Игровой процесс и гайды:**
+  * Мы полностью переработали форматирование раздела с [РП-Терминами](https://wiki.erlcrussia.xyz/documentation-moscow-roleplay/general-rules/rp-terms). Теперь информация воспринимается быстрее, а всё лишнее и устаревшее было удалено.
+  * Гайд для игроков стал чище и лаконичнее — только то, что действительно нужно для качественной игры.
+* **Обновление Moscow RolePlay Bot:**
+  * Система тикетов прошла через полную программную переработку. Что изменилось:
+    * Система стала быстрее и стабильнее.
+    * Добавлены основные инструменты для работы с обращениями:
+      * `$взять` — закрепить тикет за собой.
+      * `$освободить` — снять ответственность с текущего модератора.
+      * `$открыть` / `$закрыть` — управление доступом к переписке.
+    * Все сообщения и интерфейсы бота переведены на V2 компоненты (улучшенные кнопки, меню и вложения).
+* **Информационные каналы и интерфейс:**
+  * Полностью обновлено визуальное оформление во всех ключевых разделах:
+    * Меню информации.
+    * Условия и списки партнёрства.
+    * Навигационные сообщения.
+  * Система защиты от нежелательных упоминаний обновлена до актуальной версии для обеспечения комфортного общения.
+* **Управление персоналом:**
+  * Система повышений и отчётности персонала перенесена в специализированный бот «Управление департаментом». Это позволит более эффективно отслеживать прогресс сотрудников и автоматизировать рутину.
 
 <details>
 
-<summary><strong>Изменения в Правилах Сервера</strong></summary>
+<summary><strong>Обновили раздел</strong> <a data-mention href="https://app.gitbook.com/s/52mB10Bk5lnLrYZ0YvVs/general-rules/server-rules">Правила Сервера</a>.</summary>
 
 <h3 id="rp-pravila" align="center"><strong>РП П</strong><mark style="color:red;"><strong>РАВИЛА</strong><strong>равила</strong></mark></h3>
 
@@ -239,23 +257,113 @@ layout:
 
 </details>
 
-<details>
+<details open>
 
-<summary><strong>Добавили/Обновили раздел</strong> <a data-mention href="https://app.gitbook.com/s/52mB10Bk5lnLrYZ0YvVs/general-pravila/event-rules">Правила Мероприятий</a><strong>.</strong></summary>
+<summary><strong>Добавили/Обновили раздел</strong> <a data-mention href="https://app.gitbook.com/s/52mB10Bk5lnLrYZ0YvVs/general-rules/event-rules">Правила Мероприятий</a><strong>.</strong></summary>
 
 <h2 align="center"><mark style="color:green;"><strong>Правила Мероприятий</strong></mark></h2>
 
 <h3 align="center"><mark style="color:green;">Основное</mark></h3>
 
-* <mark style="color:green;">**A-1**</mark> <mark style="color:green;"></mark><mark style="color:green;">— На обычных мероприятиях (НЕ РП) запрещено несоблюдение указаний персонала таких как игнорирование команд ведущего/персонала, а также выход за пределы зоны проведения мероприятия без разрешения.</mark>
+* <mark style="color:green;">**A-1**</mark> <mark style="color:green;"></mark><mark style="color:green;">— На обычных мероприятиях (НЕ РП) запрещено несоблюдение указаний персонала таких как игнорирование команд ведущего/персонала, а также выход за пределы зоны проведения мероприятия без разрешения.</mark>&#x20;
+  * <mark style="color:green;">**A-1.1**</mark> <mark style="color:green;"></mark><mark style="color:green;">—</mark> <mark style="color:green;">Игнорирование команд ведущего в Discord-сцене также считается нарушением.</mark>
 * <mark style="color:green;">**A-2**</mark> <mark style="color:green;"></mark><mark style="color:green;">— На обычных мероприятиях (НЕ РП) запрещено создавать помехи проведению: беготня, тараны, сигнализация и иные шумные действия, мешающие участникам, а также вмешательство в конкурсы/испытания/мини-игры, если вы не являетесь участником.</mark>
+  * <mark style="color:green;">**A-2.1**</mark> <mark style="color:green;"></mark><mark style="color:green;">—</mark> <mark style="color:green;"></mark><mark style="color:green;">**Discord-специфика:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Запрещено перекрикивать ведущего, включать музыку в микрофон или издавать резкие звуки, мешающие участникам слышать правила конкурса. Вмешательство в испытания, если вы не участник, запрещено.</mark>
 * <mark style="color:green;">**A-3**</mark> <mark style="color:green;"></mark><mark style="color:green;">— На обычных мероприятиях (НЕ РП) запрещено некорректно использовать транспорт: использовать запрещённые для ивента ТС, блокировать дороги или перекрывать маршруты участников.</mark>
-* <mark style="color:green;">**A-4**</mark> <mark style="color:green;"></mark><mark style="color:green;">— На обычных мероприятиях (НЕ РП) запрещено несанкционированно использовать специальные возможности: применение функций фракций (наручники, арест, шипы и др.) без указания организаторов, а также использование техники PD/SD/EMS/FD/DOT вне сценария.</mark>
+* <mark style="color:green;">**A-4**</mark> <mark style="color:green;"></mark><mark style="color:green;">— K-4 – На обычных мероприятиях (НЕ РП) запрещено несанкционированно использовать специальные возможности: применение функций фракций (наручники, арест, шипы и др.) без указания организаторов, а также использование техники PD/SD/EMS/FD/DOT вне сценария.</mark>&#x20;
+  * <mark style="color:green;">**A-4.1**</mark> <mark style="color:green;"></mark><mark style="color:green;">—</mark> <mark style="color:green;">Игнорирование команд ведущего в Discord-сцене также считается нарушением.</mark>
 * <mark style="color:green;">**A-5**</mark> <mark style="color:green;"></mark><mark style="color:green;">— На обычных мероприятиях (НЕ РП) запрещено применять оружие без разрешения ведущего, включая использование тяжёлого вооружения, если это не является частью сценария.</mark>
-* <mark style="color:green;">**A-6**</mark> <mark style="color:green;"></mark><mark style="color:green;">— На обычных мероприятиях (НЕ РП) запрещено нарушать очередь и организационную дисциплину: выход в игровую зону раньше вызова, а также любые действия, мешающие нормальному проведению конкурса или задания.</mark>
+  * <mark style="color:green;">**A-5.1**</mark> <mark style="color:green;"></mark><mark style="color:green;">—</mark> <mark style="color:green;">Игнорирование команд ведущего в Discord-сцене также считается нарушением.</mark>
+* <mark style="color:green;">**A-6**</mark> <mark style="color:green;"></mark><mark style="color:green;">— На обычных мероприятиях (НЕ РП) запрещено нарушать очередь и организационную дисциплину: выход в игровую зону раньше вызова, а также любые действия, мешающие нормальному проведению конкурса или задания.</mark>&#x20;
+  * <mark style="color:green;">**A-6.1**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Игнорирование команд ведущего в Discord-сцене также считается нарушением.</mark>
 * <mark style="color:green;">**A-7**</mark> <mark style="color:green;"></mark><mark style="color:green;">— На обычных мероприятиях (НЕ РП) запрещены шум и хаотические действия: излишнее использование сигналов/сирен/музыки/эффектов, а также создание хаоса (аварии, массовые драки), если это не часть сценария.</mark>
+  * <mark style="color:green;">**A-7.1**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Игнорирование команд ведущего в Discord-сцене также считается нарушением.</mark>
 
 _<mark style="color:green;">**Модератор сам решает, какое наказание дать за нарушение. Наказание зависит от того, насколько серьёзное было нарушение.**</mark>_
+
+</details>
+
+<details>
+
+<summary>Обновили раздел <a data-mention href="https://app.gitbook.com/s/52mB10Bk5lnLrYZ0YvVs/general-rules/discord-rules">Правила Discord</a>.</summary>
+
+<h2 align="center"><mark style="color:green;"><strong>Правила Discord</strong></mark></h2>
+
+<h3 align="center"><mark style="color:green;">A. Общие Положения</mark></h3>
+
+* <mark style="color:green;">**А-1**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Настоящие правила распространяются на все текстовые и голосовые каналы сервера без исключений, а также на любые серверы, находящиеся под управлением Moscow RolePlay (включая серверы фракций).</mark>
+* <mark style="color:green;">**А-2**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Каждый участник обязан ознакомиться с правилами до начала общения. За любое нарушение последует наказание согласно соответствующим пунктам. Карательные меры применяются ко всем участникам без исключения.</mark>
+* <mark style="color:green;">**А-3**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Персонал сервера имеет приоритетные права; их указания обязательны к исполнению. Персонал вправе изменять меру наказания — как в сторону смягчения, так и ужесточения — не более чем в два раза от исходного размера. Персонал оставляет за собой право интерпретировать и применять правила в индивидуальном порядке.</mark>
+* <mark style="color:green;">**А-4**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Любые спорные ситуации и апелляции на вынесенные наказания подаются</mark> <mark style="color:green;"></mark><mark style="color:green;">**исключительно через систему тикетов**</mark> <mark style="color:green;"></mark><mark style="color:green;">(</mark><mark style="color:green;">`/помощь-модерации`</mark> <mark style="color:green;"></mark><mark style="color:green;">или канал</mark> [<mark style="color:green;">#╚-тикеты</mark>](https://discord.com/channels/1331331077553262765/1416175944829243422)<mark style="color:green;">). Публичные обсуждения дисциплинарных мер, а также обращения в личных сообщениях персоналу</mark> <mark style="color:green;"></mark><mark style="color:green;">**не рассматриваются**</mark><mark style="color:green;">.</mark>
+* <mark style="color:green;">**А-5**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Персонал не модерирует действия в личных сообщениях или на сторонних серверах, не находящихся под контролем Moscow RolePlay. Однако серьёзные инциденты могут быть рассмотрены индивидуально. В случае нарушения правил со стороны персонала (в том числе в ЛС) — они несут дисциплинарные меры.</mark>
+* <mark style="color:green;">**А-6**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Не убеждайте и не поддерживайте других в нарушении правил — это приведёт к наказанию обеих сторон.</mark>
+
+***
+
+<h3 align="center"><mark style="color:green;">B. Правила Поведения в Каналах</mark></h3>
+
+* <mark style="color:green;">**B-1**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Единственным официальным языком на сервере является</mark> <mark style="color:green;"></mark><mark style="color:green;">**русский**</mark><mark style="color:green;">. Все участники обязаны вести общение в текстовых и голосовых каналах исключительно на русском языке.</mark>
+  * <mark style="color:green;">**Наказание:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Мут 1–5 дней / Кик с сервера</mark>
+* <mark style="color:green;">**B-2**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Все участники должны относиться друг к другу справедливо и уважительно. Запрещены любые оскорбления, угрозы, дискриминация, токсичность, троллинг, провокации и попытки введения в заблуждение. Преднамеренные преследования или клевета в адрес пользователей наказываются по усмотрению модерации.</mark>
+  * <mark style="color:green;">**Наказание:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Предупреждение / Мут 1–6 часов</mark>
+* <mark style="color:green;">**B-3**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Воздержитесь от пингов персонала без реальной и обоснованной причины.</mark>
+  * <mark style="color:green;">**Менеджмент**</mark> <mark style="color:green;"></mark><mark style="color:green;">— за</mark> <mark style="color:green;"></mark><mark style="color:green;">**3 пинга**</mark> <mark style="color:green;"></mark><mark style="color:green;">выдаётся мут на</mark> <mark style="color:green;"></mark><mark style="color:green;">**30 минут**</mark><mark style="color:green;">.</mark>
+  * <mark style="color:green;">**Руководство**</mark> <mark style="color:green;"></mark><mark style="color:green;">— пинговать</mark> <mark style="color:green;"></mark><mark style="color:green;">**категорически запрещено**</mark><mark style="color:green;">. За</mark> <mark style="color:green;"></mark><mark style="color:green;">**2 пинга**</mark> <mark style="color:green;"></mark><mark style="color:green;">— мут на</mark> <mark style="color:green;"></mark><mark style="color:green;">**1 час**</mark><mark style="color:green;">.</mark>
+  * <mark style="color:green;">Наказания за нарушение данного пункта применяются</mark> <mark style="color:green;"></mark><mark style="color:green;">**автоматически через бота модерации**</mark><mark style="color:green;">. В отдельных случаях участники могут быть добавлены в список исключений по усмотрению руководства.</mark>
+    * <mark style="color:green;">**Наказание:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Мут 30 минут / Мут 1 час</mark>
+* <mark style="color:green;">**B-4**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Мат допустим только в нейтральном контексте и при отсутствии нарушений атмосферы сервера. Оскорбления, а также использование мата против участников, персонала или в провокационных целях — строго запрещены. Персонал вправе выдать предупреждение за неуместное использование ненормативной лексики.</mark>
+  * <mark style="color:green;">**Наказание:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Предупреждение / Мут 1–6 часов</mark>
+* <mark style="color:green;">**B-5**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Любые оскорбительные высказывания, направленные против расы, национальности, этнического происхождения, сексуальной ориентации, гендерной идентичности, возраста, религии, инвалидности или иных защищаемых характеристик,</mark> <mark style="color:green;"></mark><mark style="color:green;">**категорически запрещены**</mark> <mark style="color:green;"></mark><mark style="color:green;">и не имеют оправданий (включая шутки, сарказм, «чёрный юмор»).</mark>
+  * <mark style="color:green;">**Наказание:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Предупреждение / Мут 1–6 часов</mark>
+* <mark style="color:green;">**B-6**</mark> <mark style="color:green;"></mark><mark style="color:green;">—</mark> <mark style="color:green;"></mark><mark style="color:green;">**Любой NSFW-контент полностью запрещён.**</mark> <mark style="color:green;"></mark><mark style="color:green;">Это включает эротику, жестокость, кровь, демонстрацию интимных частей тела, обсуждение сексуальных действий, статуса или любых тем сексуального характера — без исключений.</mark>
+  * <mark style="color:green;">**Наказание:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Мут 4–24 часа / Бан</mark>
+* <mark style="color:green;">**B-7**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Категорически запрещаются:</mark>
+  * <mark style="color:green;">Любые формы проявления нацизма, экстремизма, расизма, а также использование запрещённой националистической символики (включая стилизованные или завуалированные версии)</mark>
+  * <mark style="color:green;">Разжигание конфликтов, связанных с военными действиями и вооружёнными противоречиями. Запрещено использование символов «Z» и «V» в любом контексте</mark>
+  * <mark style="color:green;">Пропаганда насилия, оружия, наркотиков, любых незаконных действий</mark>
+    * <mark style="color:green;">**Наказание:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Мут 6–24 часа / Бан</mark>
+* <mark style="color:green;">**B-8**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Запрещён спам в любых текстовых каналах: многократные, бессмысленные или избыточные отправки изображений, сообщений, смайлов, реакций, длинные истории или копипасты — любые действия, затрудняющие нормальное чтение и ведение диалога.</mark>
+  * <mark style="color:green;">**Наказание:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Предупреждение / Мут 1–4 часа</mark>
+* <mark style="color:green;">**B-9**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Запрещена реклама любых сторонних ресурсов: интернет-ссылки, Discord-серверы, сайты, группы в социальных сетях, а также любые иные платформы, не относящиеся к данному проекту. Под рекламой понимается как явное, так и скрытое упоминание, приглашение или направление с целью привлечения внимания к сторонним ресурсам.</mark>
+  * <mark style="color:green;">**Наказание:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Мут 1–2 дня / Бан</mark>
+* <mark style="color:green;">**B-10**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Не отправляйте ссылки на сторонние серверы, IP-грабберы или любые другие ссылки, которые выглядят подозрительно, либо неуместны/нерелевантны. Запрещено распространение вредоносного ПО (вирусов, троянов, программ-вымогателей) и ссылок на него.</mark>
+  * <mark style="color:green;">**Наказание:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Бан (за вредоносное ПО) / Мут 1–2 дня (за подозрительные ссылки)</mark>
+* <mark style="color:green;">**B-11**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Запрещено распространение личной информации (реальное имя, адрес, телефон, фотографии, видео, место работы, геолокация, личные переписки) без явно выраженного согласия владельца. Не разглашайте личные данные (свои или чужие). Любые формы мошенничества, доксинг, деанон, сваттинг —</mark> <mark style="color:green;"></mark><mark style="color:green;">**мгновенный бан**</mark><mark style="color:green;">.</mark>
+  * <mark style="color:green;">**Наказание:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Мут 6–24 часа / Бан</mark>
+* <mark style="color:green;">**B-12**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Используйте текстовые и голосовые каналы строго по их назначению. Например, не используйте команды ботов в не предназначенных для этого каналах. Мемы, арты и медиа — только в соответствующих каналах тематики сервера.</mark>
+  * <mark style="color:green;">**Наказание:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Предупреждение / Мут 1–4 часа</mark>
+* <mark style="color:green;">**B-13**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Голосовые каналы:</mark>
+  * <mark style="color:green;">Соблюдайте тишину, уважайте других участников</mark>
+  * <mark style="color:green;">Музыка, шумы или сторонние звуки —</mark> <mark style="color:green;"></mark><mark style="color:green;">**только с разрешения всех присутствующих**</mark>
+  * <mark style="color:green;">Используйте кнопку отключения микрофона при необходимости</mark>
+  * <mark style="color:green;">Любой голосовой канал, созданный через опцию</mark> <mark style="color:green;"></mark>_<mark style="color:green;">Создать Голосовой Чат</mark>_<mark style="color:green;">, находится под контролем владельца — он решает, какие разговоры там допустимы</mark>
+  * <mark style="color:green;">Если вам не нравится текущий разговор или контент —</mark> <mark style="color:green;"></mark><mark style="color:green;">**покиньте голосовой канал**</mark>
+    * <mark style="color:green;">**Наказание:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Предупреждение / Мут 1–4 часа</mark>
+* <mark style="color:green;">**B-14**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Запрещено использовать оскорбительные, провокационные ники, аватары и статусы. Создание фейковых аккаунтов известных личностей, персонала или руководства запрещено.</mark>
+  * <mark style="color:green;">**Наказание:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Предупреждение / Смена ника / Мут</mark>
+* <mark style="color:green;">**B-15**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Сторонние боты, скрипты, несанкционированные программы и читы на сервере</mark> <mark style="color:green;"></mark><mark style="color:green;">**запрещены**</mark><mark style="color:green;">. Играйте честно, не используйте баги или сторонние программы.</mark>
+  * <mark style="color:green;">**Наказание:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Бан</mark>
+* <mark style="color:green;">**B-16**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Запрещено любое обсуждение, пропаганда или оправдание действий, связанных со взломом (аккаунтов, серверов, ПО), IP-граббингом (сбором IP-адресов без согласия), выдачей себя за других участников или представителей персонала.</mark>
+  * <mark style="color:green;">**Наказание:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Предупреждение / Мут 1–6 часов</mark>
+* <mark style="color:green;">**B-17**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Запрещено любое публичное выражение неуважения, дискредитации, унижения или оскорбления в адрес проекта, его администрации, модерации, менеджмента, руководства, а также общей концепции и ценностей сообщества. Под оскорблением понимаются как прямые нецензурные высказывания, так и завуалированные формы (сарказм, ирония, клевета). Конструктивная критика в уважительной форме через тикет не считается нарушением.</mark>
+  * <mark style="color:green;">**Наказание:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Мут 2–12 часов / Кик</mark>
+* <mark style="color:green;">**B-18**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Запрещены любые провокации, направленные на разжигание конфликта (троллинг, газлайтинг, подстрекательство, создание «перепалок»). Запрещено инициирование или участие в открытых конфликтах, содержащих агрессию, унижение достоинства или попытки подавления собеседника.</mark>
+  * <mark style="color:green;">**Наказание:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Предупреждение / Мут 2–6 часов</mark>
+* <mark style="color:green;">**B-19**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Запрещено любое упоминание родственников или близких лиц других участников в негативном контексте, включая оскорбление, унижение, высмеивание — вне зависимости от формы (прямые оскорбления, завуалированные высказывания, сарказм).</mark>
+  * <mark style="color:green;">**Наказание:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Предупреждение / Мут 4–24 часа</mark>
+* <mark style="color:green;">**B-20**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Запрещены обсуждения политики, религии, провокационные дискуссии, осуждение действий персонала. Темы политики или внутренних/внешних дел разрешены,</mark> <mark style="color:green;"></mark><mark style="color:green;">**только если участники сохраняют уважительный тон**</mark><mark style="color:green;">.</mark>
+  * <mark style="color:green;">**Наказание:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Предупреждение / Мут 6–24 часа / Бан</mark>
+
+***
+
+<h3 align="center"><mark style="color:green;">С. Примечания</mark></h3>
+
+* <mark style="color:green;">**С-1**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Вы можете вызвать сотрудника модерации Discord для разбора нарушения с помощью команды</mark> <mark style="color:green;"></mark><mark style="color:green;">`/помощь-модерации`</mark><mark style="color:green;">. Приложите ссылку на сообщение, на которое жалуетесь, чтобы команда модерации могла помочь быстрее и эффективнее.</mark>
+* <mark style="color:green;">**С-2**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Любой сервер, которым управляет Moscow RolePlay, подпадает под эти правила. Это включает серверы департаментов. Нарушение любого правила может привести к наказанию как на соответствующем сервере, так и на основном сервере Moscow RolePlay.</mark>
+* <mark style="color:green;">**С-3**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Данные правила являются обязательными для соблюдения.</mark>
+  * <mark style="color:green;">Пребывание на сервере означает ваше безоговорочное согласие с ними.</mark>
+  * <mark style="color:green;">Незнание правил не освобождает от ответственности.</mark>
+* <mark style="color:green;">**С-4**</mark> <mark style="color:green;"></mark><mark style="color:green;">— На сервере действуют условия Discord, а также общие нормы приличия. Нарушение данных условий также может повлечь наказание.</mark>
 
 </details>
 
