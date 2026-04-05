@@ -1,6 +1,12 @@
 ---
+cover: ../../.gitbook/assets/Баннеры Обновлений Правила Сервера Moscow RolePlay.png
+coverY: -68.21052631578948
+coverHeight: 220
 layout:
   width: default
+  cover:
+    visible: true
+    size: hero
   title:
     visible: false
   description:
