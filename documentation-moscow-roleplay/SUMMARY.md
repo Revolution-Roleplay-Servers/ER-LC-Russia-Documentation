@@ -2,12 +2,12 @@
 
 * [👋 Добро Пожаловать](README.md)
 
-## 📕 Основные Правила <a href="#general-pravila" id="general-pravila"></a>
+## 📕 Основные Правила <a href="#general-rules" id="general-rules"></a>
 
-* [📗 Правила Сервера](general-pravila/server-rules.md)
-* [📒 РП Термины](general-pravila/rp-terminy.md)
-* [📘 Правила Discord](general-pravila/discord-rules.md)
-* [🎉 Правила Мероприятий](general-pravila/event-rules.md)
+* [📗 Правила Сервера](general-rules/server-rules.md)
+* [📒 РП Термины](general-rules/rp-terms.md)
+* [📘 Правила Discord](general-rules/discord-rules.md)
+* [🎉 Правила Мероприятий](general-rules/event-rules.md)
 
 ## 📚 Правила Фракций <a href="#fractions-rules" id="fractions-rules"></a>
 
@@ -25,7 +25,7 @@
 
 * [🧾 Апелляция на Discord-бан](apellyacii/apellyaciya-na-discord-ban.md)
 
-## 📂 Гайды
+## 📂 Гайды <a href="#guides" id="guides"></a>
 
-* [📖 Небольшой Гайд Для Новичков](gaidy/nebolshoi-gaid-dlya-novichkov.md)
-* [💵 Как оформить подписку?](gaidy/kak-oformit-podpisku.md)
+* [📖 Небольшой Гайд Для Новичков](guides/small-guide-for-beginners.md)
+* [💵 Как оформить подписку?](guides/how-to-subscribe.md)
