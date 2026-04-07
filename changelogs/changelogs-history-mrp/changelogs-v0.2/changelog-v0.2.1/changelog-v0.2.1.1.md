@@ -1,7 +1,7 @@
 ---
-cover: ../../../.gitbook/assets/Баннеры Обновлений 2-1-1 Moscow RolePlay.png
+cover: ../../../.gitbook/assets/Баннеры Обновлений 2-1-1 Moscow RolePlay (1).png
 coverY: -63.15789473684211
-coverHeight: 217
+coverHeight: 221
 layout:
   width: default
   cover:
