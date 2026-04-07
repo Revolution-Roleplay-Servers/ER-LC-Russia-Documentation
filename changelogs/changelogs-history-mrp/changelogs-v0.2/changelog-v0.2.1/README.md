@@ -1,5 +1,7 @@
 ---
-cover: ../../.gitbook/assets/Баннеры Обновлений Правила Сервера Moscow RolePlay.png
+cover: >-
+  ../../../.gitbook/assets/Баннеры Обновлений Правила Сервера Moscow
+  RolePlay.png
 coverY: -68.21052631578948
 coverHeight: 220
 layout:
