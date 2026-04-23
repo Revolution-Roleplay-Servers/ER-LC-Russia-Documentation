@@ -85,3 +85,7 @@ MCowBQYDK2VwAyEArbRTkyh3A035YUWWZdyF3vck4QN3I7uU8cp7YaxocFE=
 * Emergency Calls (Экстренные Вызовы)
 
 В будущем могут быть добавлены новые события. Обратите внимание: система вебхуков не предназначена для замены опроса HTTP API.
+
+***
+
+<p align="center"><sub>© 2026 ER:LC Россия. Все права защищены.</sub></p>
