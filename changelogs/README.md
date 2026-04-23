@@ -34,7 +34,7 @@ layout:
 
 <h3 align="center">Последние Обновления Moscow RolePlay</h3>
 
-<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>Обновление V0.3</strong></td><td><a href="changelogs-history-mrp/changelog-v0.1/changelog-v0.1.3.md">changelog-v0.1.3.md</a></td></tr><tr><td align="center"><strong>Обновление V0.2</strong></td><td><a href="changelogs-history-mrp/changelog-v0.2/">changelog-v0.2</a></td></tr><tr><td align="center"><strong>Обновление V0.1</strong></td><td><a href="changelogs-history-mrp/changelog-v0.1/">changelog-v0.1</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>Обновление V0.3</strong></td><td><a href="changelogs-history-mrp/changelog-v0.3/">changelog-v0.3</a></td></tr><tr><td align="center"><strong>Обновление V0.2</strong></td><td><a href="changelogs-history-mrp/obnovleniya-v0.2/">obnovleniya-v0.2</a></td></tr><tr><td align="center"><strong>Обновление V0.1</strong></td><td><a href="changelogs-history-mrp/changelogs-v0.1/">changelogs-v0.1</a></td></tr></tbody></table>
 
 ***
 
