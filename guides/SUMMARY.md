@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Untitled](README.md)
+* [Как начать игру](README.md)
