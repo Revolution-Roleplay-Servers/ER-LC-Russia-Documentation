@@ -161,6 +161,19 @@ layout:
 
 </details>
 
+<h3 align="center"><strong>Изменение Правил Кураторов</strong></h3>
+
+<details>
+
+<summary><strong>Изменение Правил Кураторов</strong></summary>
+
+<h3 align="center">C. Одобрение Действий</h3>
+
+* <mark style="color:green;">**C-3**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Кураторам запрещено самостоятельно применять к себе любые меры дисциплинарного взыскания или формы поощрения.</mark>
+
+</details>
+
 ***
 
 <p align="center"><sub>© 2026 ER:LC Россия. Все права защищены.</sub></p>
+
