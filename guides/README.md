@@ -1,7 +1,7 @@
 ---
-cover: .gitbook/assets/unknown.png
+cover: .gitbook/assets/banner1.1.png
 coverY: 0
-coverHeight: 511
+coverHeight: 172
 layout:
   width: default
   cover:
@@ -24,8 +24,6 @@ layout:
 ---
 
 # Untitled
-
-<p align="center"></p>
 
 <p align="center"></p>
 
