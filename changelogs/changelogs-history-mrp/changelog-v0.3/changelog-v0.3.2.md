@@ -31,6 +31,8 @@ layout:
 
 ***
 
+<h3 align="center"><strong>Изменение Таблицы Званий МВД</strong></h3>
+
 <details>
 
 <summary><strong>Изменение Таблицы Званий МВД</strong></summary>
@@ -62,6 +64,8 @@ layout:
   * <mark style="color:red;">**Рядовой**</mark>
 
 </details>
+
+<h3 align="center"><strong>Изменение Правил Фракций</strong></h3>
 
 <details>
 
@@ -95,6 +99,42 @@ layout:
   * <mark style="color:green;">ОПГ и Департамент Транспорта.</mark>
   * <mark style="color:green;">ОПГ и МЧС.</mark>
   * <mark style="color:green;">ОПГ и МЗ.</mark>
+
+</details>
+
+<h3 align="center"><strong>Изменение Правил Сервера</strong></h3>
+
+<details>
+
+<summary><strong>Изменение Правил Сервера</strong></summary>
+
+<h3 align="center"><mark style="color:green;"><strong>A.</strong></mark><strong> РП Правила</strong></h3>
+
+<h3 align="center"><mark style="color:green;"><strong>B.</strong></mark><strong> Фракции</strong></h3>
+
+
+
+* <mark style="color:green;">**B-11**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Регламент неофициального сотрудника ДПС.</mark>
+  * <mark style="color:green;">**B-11.1**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Неофициальный сотрудник ДПС по иерархии приравнивается к званию Рядовой. Он обязан беспрекословно соблюдать внутренний устав и подчиняться руководству не только ДПС, но и всего МВД.</mark>
+  * <mark style="color:green;">**B-11.2**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Неофициальному сотруднику строго запрещено превышать свои законные полномочия. Любые действия, выходящие за рамки установленных регламентов МВД и законодательства, караются согласно правилам сервера.</mark>
+  * <mark style="color:green;">**B-11.3**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Для выполнения служебных обязанностей неофициальному сотруднику разрешено использовать исключительно следующий арсенал (из предметов, которые могут наносить урон, остальные предметы тоже разрешаются):</mark>
+    * <mark style="color:green;">Перцовый баллончик.</mark>
+    * <mark style="color:green;">Резиновая дубинка.</mark>
+    * <mark style="color:green;">Пистолет Glock 17.</mark>
+  * <mark style="color:green;">**B-11.4**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Запрещено играть за неофициального сотрудника МВД (ДПС), если вы уже состоите в любой другой государственной или криминальной фракции.</mark>
+  * > <mark style="color:green;">Примечание: Это правило распространяется и на само МВД — нельзя быть официальным сотрудником одной структуры и неофициальным другой одновременно.</mark>
+
+<h3 align="center"><mark style="color:green;"><strong>C.</strong></mark><strong> Криминальная Деятельность</strong></h3>
+
+<h3 align="center"><mark style="color:green;">D.</mark> Транспортные Средства</h3>
+
+<h3 align="center"><mark style="color:green;"><strong>E.</strong></mark><strong> Нанесение Урона</strong></h3>
+
+<h3 align="center"><mark style="color:green;">F.</mark> Другое</h3>
+
+<h3 align="center"><mark style="color:green;">G.</mark> Голосовые Чаты</h3>
+
+<h3 align="center"><mark style="color:green;">H.</mark> Персонал</h3>
 
 </details>
 
