@@ -197,5 +197,5 @@ layout:
 
 
 
-<mark style="background-color:green;">ТЕСТ</mark>
+<mark style="background-color:$success;">ТЕСТ</mark>
 
