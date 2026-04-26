@@ -149,7 +149,18 @@ layout:
 
 </details>
 
+<h3 align="center"><strong>Изменение Правил Лидеров</strong></h3>
+
+<details>
+
+<summary><strong>Изменение Правил Сервера</strong></summary>
+
+<h3 align="center"><strong>C. Основные Запреты</strong></h3>
+
+* <mark style="color:green;">**C-7**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Лидеру организации запрещено самостоятельно аннулировать, изменять или применять в отношении себя любые дисциплинарные взыскания. Полномочиями по выдаче и снятию наказаний лидеру обладает исключительно Куратор фракции, Главный куратор, а также Менеджер Фракций.</mark>
+
+</details>
+
 ***
 
 <p align="center"><sub>© 2026 ER:LC Россия. Все права защищены.</sub></p>
-
