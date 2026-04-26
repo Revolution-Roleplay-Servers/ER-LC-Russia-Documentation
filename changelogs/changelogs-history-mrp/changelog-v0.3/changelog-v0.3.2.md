@@ -120,9 +120,15 @@ layout:
     * <mark style="color:green;">Резиновая дубинка.</mark>
     * <mark style="color:green;">Пистолет Glock 17.</mark>
   * <mark style="color:green;">**B-11.4**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Запрещено играть за неофициального сотрудника МВД (ДПС), если вы уже состоите в любой другой государственной или криминальной фракции.</mark>
-  * > <mark style="color:green;">Примечание: Это правило распространяется и на само МВД — нельзя быть официальным сотрудником одной структуры и неофициальным другой одновременно.</mark>
+  *   > <mark style="color:green;">Примечание: Это правило распространяется и на само МВД — нельзя быть официальным сотрудником одной структуры и неофициальным другой одновременно.</mark>
+
+
+* <mark style="color:green;">**B-16**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Высший состав фракции имеет право отыгрывать роль сотрудника званий ниже своей фракции в рамках создания игровых ситуаций.</mark>
+  * <mark style="color:green;">**Например:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Генерал-Лейтенант отыгрывает за Сержанта, чтобы выходить в патруль, потому что обычно, Генералы не выходят в патруль.</mark>
 
 <h3 align="center"><mark style="color:green;"><strong>C.</strong></mark><strong> Криминальная Деятельность</strong></h3>
+
+* <mark style="color:green;">**C-11**</mark> <mark style="color:green;"></mark><mark style="color:green;">— Запрещено возвращаться на базу ОПГ во время активной погони или перестрелки с целью скрыться от преследования или получить поддержку от участников своей организации (опирается на правило</mark> <mark style="color:green;"></mark><mark style="color:green;">**A-2**</mark><mark style="color:green;">).</mark>
 
 <h3 align="center"><mark style="color:green;">D.</mark> Транспортные Средства</h3>
 
