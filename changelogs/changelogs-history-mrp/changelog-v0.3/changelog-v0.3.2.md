@@ -1,4 +1,5 @@
 ---
+hidden: true
 cover: ../../.gitbook/assets/Баннеры Обновлений Moscow RolePlay Техническое (1).png
 coverY: -68.21052631578948
 coverHeight: 220
