@@ -1,5 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/Баннеры Обновлений 2-1-1 Moscow RolePlay (1).png
+cover: ../../.gitbook/assets/Баннеры Обновлений 2-1-1 Moscow RolePlay (1).png
 coverY: -63.15789473684211
 coverHeight: 221
 layout:
@@ -23,9 +23,9 @@ layout:
     visible: true
 ---
 
-# Обновление V0.2.1.2
+# Обновление V0.2.3
 
-<h2 align="center"><strong>Обновление V0.2.1.2 — 07.04.2026</strong></h2>
+<h2 align="center"><strong>Обновление V0.2.3 — 07.04.2026</strong></h2>
 
 <p align="center">Обновили правила лидеров.</p>
 
