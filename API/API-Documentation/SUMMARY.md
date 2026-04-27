@@ -15,6 +15,7 @@
   * [💵 MRP API Экономики V2](for-developers/documentation-api-v2/mrp-civops-api-v2/README.md)
     * [🔎 GET-Эндпоинты API Экономики](for-developers/documentation-api-v2/mrp-civops-api-v2/mrp-get-endpoints-civops-api-v2.md)
     * [📨 POST-Эндпоинты API](for-developers/documentation-api-v2/mrp-civops-api-v2/mrp-post-endpoints-civops-api-v2.md)
+  * [📈 MRP API Статистики V2](for-developers/documentation-api-v2/mrp-stats-api-v2.md)
   * [✨ ClueControl M V2](for-developers/documentation-api-v2/cluecontrol-m-v2.md)
 * [🚨 Лимиты Запросов](for-developers/rate-limits.md)
 * [🚧 Коды Ошибок](for-developers/error-codes.md)
