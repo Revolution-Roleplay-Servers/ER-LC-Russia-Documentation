@@ -14,6 +14,12 @@
 * [📜 Правила Фракций](fractions-rules/fractions-rules.md)
 * [⚖️ Правила Лидеров](fractions-rules/lider-rules.md)
 
+## 📂 Гайды <a href="#guides" id="guides"></a>
+
+* [📖 Гайды](http://wiki.erlcrussia.xyz/guides)
+* [📖 Небольшой Гайд Для Новичков](guides/small-guide-for-beginners.md)
+* [💵 Как оформить подписку?](guides/how-to-subscribe.md)
+
 ## 👤 Команда
 
 * [🛠️ Персонал](komanda/personal.md)
@@ -24,9 +30,3 @@
 ## 📃 Апелляции
 
 * [🧾 Апелляция на Discord-бан](apellyacii/apellyaciya-na-discord-ban.md)
-
-## 📂 Гайды <a href="#guides" id="guides"></a>
-
-* [📖 Гайды](https://app.gitbook.com/s/hzXV18OgSEgX15eOlaI8/)
-* [📖 Небольшой Гайд Для Новичков](guides/small-guide-for-beginners.md)
-* [💵 Как оформить подписку?](guides/how-to-subscribe.md)
