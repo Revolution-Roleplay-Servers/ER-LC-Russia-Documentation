@@ -59,7 +59,7 @@ layout:
 
 <summary><strong>Обновили раздел</strong> <a data-mention href="https://app.gitbook.com/s/52mB10Bk5lnLrYZ0YvVs/general-rules/server-rules">Правила Сервера</a>.</summary>
 
-<h4 id="rp-pravila" align="center"><strong>РП П</strong><mark style="color:red;"><strong>РАВИЛАравила</strong></mark></h4>
+<p align="center"><strong>РП П</strong><mark style="color:red;"><strong>РАВИЛАравила</strong></mark></p>
 
 * **A-1** — На проекте действует отдельный раздел — [**РП-термины**](https://erlcrussia.gitbook.io/documentation-moscow-roleplay/pravila/rp-pravila), содержащие стандартные ролевые нарушения и их аббревиатуры (например: RDM, VDM, LTAP и др.), которые используются во всей сфере ролевой игры. Многие из этих терминов также могут быть подробно описаны в правилах сервера. <mark style="color:red;">**Модератор имеет право ссылаться на РП-термины при вынесении наказания**</mark><mark style="color:red;">, если поведение игрока нарушает нормы ролевого взаимодействия. Однако при этом он</mark> <mark style="color:red;">**обязан указать, какой конкретный РП-термин был нарушен,**</mark> <mark style="color:red;">и</mark> <mark style="color:red;">**дать игроку объяснение**</mark><mark style="color:red;">, почему он применим в данной ситуации.</mark> <mark style="color:green;">**Модератор имеет право ссылаться на них при вынесении наказания.**</mark>
   * <mark style="color:green;">**A-1.1**</mark> <mark style="color:green;">—</mark> <mark style="color:green;">**Важно:**</mark> <mark style="color:green;">Ввиду отсутствия текстового чата или частичного его отсутствия, передача информации о смерти (NLR) или местоположении игрока в голосовой канал Discord считается Метагеймингом.</mark>
@@ -81,7 +81,7 @@ layout:
   * <mark style="color:red;">В случае серьёзных разногласий обращайтесь к администрации через Discord или создайте тикет поддержки/жалобу.</mark>
   * <mark style="color:red;">Если другой игрок начинает вас провоцировать, ни в коем случае не реагируйте на провокацию: просто зафиксируйте происходящее (например, сделайте запись экрана или скриншот) и вызовите модератора/подайте тикет, либо просто покиньте сцену</mark> <mark style="color:green;">Каждый игрок обязан находиться в Discord-сцене во время игры. Никнейм в Discord должен совпадать с игровым. Использование программ для изменения голоса (за исключением специальных ролей, например — персонажей с уникальной ролью) или игнорирование обращений в голосовом канале приравнивается к Fail RP.</mark>
 
-<h4 id="frakcii" align="center"><strong>Ф</strong><mark style="color:red;"><strong>РАКЦИИракции</strong></mark></h4>
+<p align="center"><strong>Ф</strong><mark style="color:red;"><strong>РАКЦИИракции</strong></mark></p>
 
 * **B-3** — <mark style="color:red;">Не злоупотребляйте предметами, такими как конусы, сигнальные ракеты, полицейская лента и т.д.</mark> <mark style="color:green;">Запрещено злоупотреблять служебными или вспомогательными предметами, такими как конусы, сигнальные ракеты, полицейская лента и другие подобные объекты.</mark>
 * **B-4** — <mark style="color:red;">Вы не можете устанавливать шипы / стоп-сигналы перед подозреваемыми прямо перед ними или когда они уже близко к вам, а также ставить их под стоящие транспортные средства. Вы должны заранее подготовить перекрытие с шипами.</mark> <mark style="color:green;">Запрещено устанавливать шипы или стоп-стики непосредственно перед подозреваемыми, вблизи их транспортных средств, а также под стоящие автомобили. Перекрытие с использованием шипов должно быть подготовлено заранее.</mark>
@@ -99,7 +99,7 @@ layout:
 * <mark style="color:green;">**B-14**</mark> <mark style="color:green;">—</mark> <mark style="color:green;">Использование раций в Discord «Экстренные Службы Города Москвы». Использование каналов радиосвязи (специальных голосовых Discord-сцен «Рация») разрешено только сотрудникам соответствующих фракций (МВД, МЧС, и др.).</mark>
 * <mark style="color:green;">**B-15**</mark> <mark style="color:green;">—</mark> <mark style="color:green;">В случае отсутствия действующих официальных адвокатов, право временно исполнять их обязанности может быть предоставлено любому другому игроку исключительно при условии прямого одобрения со стороны персонала сервера.</mark>
 
-<h4 id="opg" align="center"><mark style="color:red;"><strong>ОПГКриминальная Деятельность</strong></mark></h4>
+<p align="center"><mark style="color:red;"><strong>ОПГКриминальная Деятельность</strong></mark></p>
 
 * **C-1** — Преступные действия не могут совершаться на парковке или в помещениях зданий любых правоохранительных органов, на станциях МЧС или в департаменте транспорта. <mark style="color:$danger;">Актуальные карты зелёных зон, на которых отмечены эти и другие территории, находятся в канале</mark> [<mark style="color:$danger;">**📑┃информация**</mark>](https://discord.com/channels/1331331077553262765/1416197158427693056)<mark style="color:$danger;">.</mark>
 * [<mark style="color:green;">**Карта Зелёных Зон**</mark>](https://wiki.erlcrussia.xyz/documentation-moscow-roleplay/general-rules/server-rules#kriminalnaya-deyatelnost)
@@ -152,7 +152,7 @@ layout:
   * <mark style="color:green;">**С-10.1**</mark> <mark style="color:green;">—</mark> Само ОПГ **не удаляется с сервера Гражданских Операций** — после истечения 1 часа участники могут возобновить отыгрыш при наличии хотя бы одного активного члена.
   * <mark style="color:green;">**С-10.2**</mark> <mark style="color:green;">—</mark> **Примечание:** Под "активными участниками" понимаются игроки, находящиеся в данный момент в составе ОПГ и участвующие в отыгрыше.
 
-<h4 align="center">Т<mark style="color:red;"><strong>РАНСПОРТНЫЕ</strong>ранспортные</mark> С<mark style="color:red;"><strong>РЕДСТВА</strong>редства</mark></h4>
+<p align="center"><strong>Т</strong><mark style="color:red;"><strong>РАНСПОРТНЫЕранспортные</strong></mark><strong> С</strong><mark style="color:red;"><strong>РЕДСТВАредства</strong></mark></p>
 
 * **D-1** — <mark style="color:red;">Любое вождение должно быть полностью реалистичным как с точки зрения транспортного средства, так и в целом (например, никаких внедорожных спортивных автомобилей, никаких подъемов в гору на любом транспортном средстве, никаких скоростных внедорожников и т.д.). Все аварийно-спасательные службы должны соблюдать все правила дорожного движения и уделять первоочередное внимание обеспечению безопасности во время поисков.</mark> <mark style="color:green;">Вождение транспортных средств должно быть полностью реалистичным, как с точки зрения поведения автомобиля, так и общего стиля езды.</mark>
   * <mark style="color:green;">**D-1.1**</mark> <mark style="color:green;">— Запрещается использовать спортивные автомобили в горной местности, подниматься на края карты (горы, за исключением территории парка High Rock) на любом виде транспорта, а также ехать на внедорожниках на чрезмерных скоростях.</mark>
@@ -169,14 +169,14 @@ layout:
   * <mark style="color:red;">Выезд на спецтехнике возможен только при подтвержденной угрозе (например, захват заложников, вооруженное сопротивление).</mark>
 * **D-**<mark style="color:green;">**10**</mark><mark style="color:red;">**12**</mark> — <mark style="color:red;">Запрещено брать/спавнить транспортное средство в течение 10 минут после его эвакуации (в том числе на штрафстоянку) с целью обойти последствия эвакуации. Любые попытки «обнулить» эвакуацию через ресет/респавн транспорта, смену/повторный выбор автомобиля, переподключение к серверу или иные способы считаются нарушением.</mark> <mark style="color:green;">Запрещается брать или спавнить транспортное средство в течение 10 минут после его эвакуации (в том числе на штрафстоянку) с целью обхода последствий эвакуации. Любые попытки «обнулить» эвакуацию путём ресета или респавна транспорта, повторного выбора автомобиля, переподключения к серверу либо использования иных методов считаются нарушением.</mark>
 
-<h4 id="oruzhie" align="center"><mark style="color:red;"><strong>ОРУЖИЕНанесение Урона</strong></mark></h4>
+<p align="center"><mark style="color:red;"><strong>ОРУЖИЕНанесение Урона</strong></mark></p>
 
 * **E-1** — Стрельба, нанесение ударов кулаками, ножами и т.д. в модераторской сцене, персоналу или любому служебному транспортному средству, грозит киком. <mark style="color:red;">Игроки должны съехать на обочину и/или уступить дорогу машинам персонала, независимо от команды.</mark>
   * <mark style="color:green;">**E-1.1**</mark> <mark style="color:green;">— Игроки должны съехать на обочину и/или уступить дорогу машинам персонала, независимо от команды.</mark>
 * **E-7** — <mark style="color:red;">**Правила отыгровки применения оружия. 1. Гражданские лица:**</mark> Гражданским лицам разрешено не отыгрывать взятие в руки пистолета. Однако обязательна отыгровка при взятии в руки винтовок (например, M14 или LMT L123A1) и всего остального оружия включая пистолеты-автоматы.
   * <mark style="color:green;">**E-7.1**</mark> <mark style="color:green;">—</mark> <mark style="color:red;">**2. Сотрудники полиции:**</mark> Официальные сотрудники полиции обязаны отыгрывать взятие в руки любого оружия, за исключением пистолета, который закреплён на служебном поясе (кобуре).
 
-<h4 id="drugoe" align="center"><strong>Д</strong><mark style="color:red;"><strong>РУГОЕругое</strong></mark></h4>
+<p align="center"><strong>Д</strong><mark style="color:red;"><strong>РУГОЕругое</strong></mark></p>
 
 * **F-1** — Все действия в игре должны соответствовать правилам <mark style="color:red;">Roblox TOS</mark> [<mark style="color:green;">**Roblox TOS**</mark>](https://wiki.erlcrussia.xyz/documentation-moscow-roleplay/general-pravila/rp-terminy#osnovnye-polozheniya-roblox-tos), иначе последует кик/бан. Это включает в себя запрет на расизм, ролевые игры про 18+, суицид и ролевые игры с наркотиками.
 * **F-2** — <mark style="color:red;">За АФК более чем на 5 минут может быть применён кик.</mark> <mark style="color:green;">За нахождение вАФК более 5 минут может быть выполнен кик. Оформлять данный кик модерацией</mark> <mark style="color:green;">**не требуется**</mark><mark style="color:green;">.</mark>
@@ -196,7 +196,7 @@ layout:
   * <mark style="color:green;">**F-11.1**</mark> <mark style="color:green;">— Разрешено говорить информацию ООС касаемо тяжести ранения, места ранения и т.д.</mark>
 *
 
-<h4 id="golosovye-chaty" align="center"><strong>Г</strong><mark style="color:red;"><strong>ОЛОСОВЫЕ</strong>олосовые</mark> <strong>Ч</strong><mark style="color:red;"><strong>АТЫаты</strong></mark></h4>
+<p align="center"><strong>Г</strong><mark style="color:red;"><strong>ОЛОСОВЫЕолосовые</strong></mark><strong> Ч</strong><mark style="color:red;"><strong>АТЫаты</strong></mark></p>
 
 * **G-1** – <mark style="color:red;">**Использование Soundpad и аналогов**</mark> <mark style="color:green;">Разрешено использовать Soundpad, встроенный Soundboard Discord и аналогичные программы исключительно для RP-ситуаций в каналах РП-сцен (например: звуки сирен, рации, открывания дверей, работающих инструментов).</mark>
   * <mark style="color:red;">Разрешено использовать Soundpad и аналогичные программы в Roblox Voice Chat только для RP-ситуаций.</mark>
@@ -240,7 +240,7 @@ layout:
 * <mark style="color:green;">**G-7 —**</mark> <mark style="color:green;">Запрещено навязывать игрокам РП-ситуации сексуального характера, пытки с детальным звуковым описанием или любые аморальные действия, вызывающие реальный дискомфорт у участников.</mark>
   * <mark style="color:green;">**G-7.1 —**</mark> <mark style="color:green;">Если игрок говорит в Discord-сцене «OOC: Мне неприятно это слышать, прекратите», другой игрок обязан перестать так себя вести и сбавить обороты.</mark>
 
-<h4 id="personal" align="center">П<mark style="color:red;">ЕРСОНАЛерсонал</mark></h4>
+<p align="center"><strong>П</strong><mark style="color:red;"><strong>ЕРСОНАЛерсонал</strong></mark></p>
 
 * **H-1** — Запрещено намеренно покидать разбирательство (мод сцену) следующими способами: выход с сервера, сброс или намеренное убийство персонажа, а также любые другие действия, способные прервать сцену.
   * <mark style="color:green;">**H-1.1**</mark> <mark style="color:green;">—</mark> <mark style="color:green;">Выход из голосового канала, где проводится разбор ситуации, до официального разрешения модератора приравнивается к LTAMS и карается блокировкой.</mark>
@@ -252,7 +252,7 @@ layout:
   * <mark style="color:green;">**H-5.3**</mark> <mark style="color:green;">— Намеренные ложные доносы на других игроков или персонал проекта запрещены и караются блокировкой (баном).</mark>
 * **H-6** — Правильно используйте команды `!mod` <mark style="color:green;">в</mark> <mark style="color:green;">**"Экстренных Службах" или основном Discord-сервере**</mark> и избегайте лишних обращений к персоналу.
 
-<h4 align="center"><mark style="color:red;">МЕРОПРИЯТИЯ</mark></h4>
+<p align="center"><mark style="color:red;"><strong>МЕРОПРИЯТИЯ</strong></mark></p>
 
 * <mark style="color:red;">**K-1**</mark> <mark style="color:red;">– На обычных мероприятиях (НЕ РП) запрещено несоблюдение указаний персонала таких как игнорирование команд ведущего/персонала, а также выход за пределы зоны проведения мероприятия без разрешения.</mark>
 * <mark style="color:red;">**K-2**</mark> <mark style="color:red;">– На обычных мероприятиях (НЕ РП) запрещено создавать помехи проведению: беготня, тараны, сигнализация и иные шумные действия, мешающие участникам, а также вмешательство в конкурсы/испытания/мини-игры, если вы не являетесь участником.</mark>
@@ -272,9 +272,9 @@ layout:
 
 <summary><strong>Добавили/Обновили раздел</strong> <a data-mention href="https://app.gitbook.com/s/52mB10Bk5lnLrYZ0YvVs/general-rules/event-rules">Правила Мероприятий</a><strong>.</strong></summary>
 
-<h3 align="center"><mark style="color:green;"><strong>Правила Мероприятий</strong></mark></h3>
+<h4 align="center"><mark style="color:green;"><strong>Правила Мероприятий</strong></mark></h4>
 
-<h4 align="center"><mark style="color:green;">Основное</mark></h4>
+<p align="center"><mark style="color:green;"><strong>Основное</strong></mark></p>
 
 * <mark style="color:green;">**A-1**</mark> <mark style="color:green;">— На обычных мероприятиях (НЕ РП) запрещено несоблюдение указаний персонала таких как игнорирование команд ведущего/персонала, а также выход за пределы зоны проведения мероприятия без разрешения.</mark>
   * <mark style="color:green;">**A-1.1**</mark> <mark style="color:green;">—</mark> <mark style="color:green;">Игнорирование команд ведущего в Discord-сцене также считается нарушением.</mark>
@@ -298,9 +298,9 @@ _<mark style="color:green;">**Модератор сам решает, какое
 
 <summary><strong>Обновили раздел</strong> <a data-mention href="https://app.gitbook.com/s/52mB10Bk5lnLrYZ0YvVs/general-rules/discord-rules">Правила Discord</a>.</summary>
 
-<h3 align="center"><mark style="color:green;"><strong>Правила Discord</strong></mark></h3>
+<h4 align="center"><mark style="color:green;"><strong>Правила Discord</strong></mark></h4>
 
-<h4 align="center"><mark style="color:green;">A. Общие Положения</mark></h4>
+<p align="center"><mark style="color:green;"><strong>A. Общие Положения</strong></mark></p>
 
 * <mark style="color:green;">**А-1**</mark> <mark style="color:green;">— Настоящие правила распространяются на все текстовые и голосовые каналы сервера без исключений, а также на любые серверы, находящиеся под управлением Moscow RolePlay (включая серверы фракций).</mark>
 * <mark style="color:green;">**А-2**</mark> <mark style="color:green;">— Каждый участник обязан ознакомиться с правилами до начала общения. За любое нарушение последует наказание согласно соответствующим пунктам. Карательные меры применяются ко всем участникам без исключения.</mark>
@@ -311,7 +311,7 @@ _<mark style="color:green;">**Модератор сам решает, какое
 
 ***
 
-<h4 align="center"><mark style="color:green;">B. Правила Поведения в Каналах</mark></h4>
+<p align="center"><mark style="color:green;"><strong>B. Правила Поведения в Каналах</strong></mark></p>
 
 * <mark style="color:green;">**B-1**</mark> <mark style="color:green;">— Единственным официальным языком на сервере является</mark> <mark style="color:green;">**русский**</mark><mark style="color:green;">. Все участники обязаны вести общение в текстовых и голосовых каналах исключительно на русском языке.</mark>
   * <mark style="color:green;">**Наказание:**</mark> <mark style="color:green;">Мут 1–5 дней / Кик с сервера</mark>
@@ -367,7 +367,7 @@ _<mark style="color:green;">**Модератор сам решает, какое
 
 ***
 
-<h4 align="center"><mark style="color:green;">С. Примечания</mark></h4>
+<p align="center"><mark style="color:green;"><strong>С. Примечания</strong></mark></p>
 
 * <mark style="color:green;">**С-1**</mark> <mark style="color:green;">— Вы можете вызвать сотрудника модерации Discord для разбора нарушения с помощью команды</mark> <mark style="color:green;">`/помощь-модерации`</mark><mark style="color:green;">. Приложите ссылку на сообщение, на которое жалуетесь, чтобы команда модерации могла помочь быстрее и эффективнее.</mark>
 * <mark style="color:green;">**С-2**</mark> <mark style="color:green;">— Любой сервер, которым управляет Moscow RolePlay, подпадает под эти правила. Это включает серверы департаментов. Нарушение любого правила может привести к наказанию как на соответствующем сервере, так и на основном сервере Moscow RolePlay.</mark>
