@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Как начать игру](README.md)
+## 📂 Гайды <a href="#guides" id="guides"></a>
+
+* [Как начать игру?](README.md)
