@@ -27,5 +27,6 @@
 
 ## 📂 Гайды <a href="#guides" id="guides"></a>
 
+* [📖 Гайды](https://app.gitbook.com/s/hzXV18OgSEgX15eOlaI8/)
 * [📖 Небольшой Гайд Для Новичков](guides/small-guide-for-beginners.md)
 * [💵 Как оформить подписку?](guides/how-to-subscribe.md)
