@@ -6,6 +6,4 @@
 
 ## 🖼️ Форумы <a href="#forums" id="forums"></a>
 
-***
-
-* [📗 Правила Публикации](publication-rules.md)
+* [📗 Правила Публикации](forums/publication-rules.md)
