@@ -4,6 +4,8 @@
 
 ## 🛠️ История Изменений MRP <a href="#changelogs-history-mrp" id="changelogs-history-mrp"></a>
 
+* [👥  Обновление V0.4](changelogs-history-mrp/changelog-v0.4/README.md)
+  * [Обновление V0.4.1](changelogs-history-mrp/changelog-v0.4/changelog-v0.4.1.md)
 * [💵 Обновление V0.3](changelogs-history-mrp/changelog-v0.3/README.md)
   * [Обновление V0.3.3](changelogs-history-mrp/changelog-v0.3/changelog-v0.3.3.md)
   * [Обновление V0.3.2](changelogs-history-mrp/changelog-v0.3/changelog-v0.3.2.md)
